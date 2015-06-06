@@ -12,5 +12,5 @@ end
 
 group :kitchen_cloud do
   gem 'kitchen-sync'
-  gem 'kitchen-digitalocean', '~> 0.8'
+  gem 'kitchen-digitalocean'
 end
