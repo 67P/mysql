@@ -101,7 +101,7 @@ platforms:
 #   - recipe[apt]
 
 - name: debian-7.0
-  driver_plugin: digital_ocean
+  driver_plugin: digitalocean
   driver_config:
     size: 2gb
     image: debian-7-0-x64
